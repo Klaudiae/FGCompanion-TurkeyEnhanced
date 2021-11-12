@@ -1,0 +1,18 @@
+
+810 Version - data cycle 2013.10, build 20131334, metadata NavXP810.  Copyright © 2013, Robin A. Peel (robin@x-plane.com).   This data is free software; you can redistribute it and/or modify it under the terms of the GNU General Public License as published by the Free Software Foundation; either version 2 of the License, or (at your option) any later version.  This program is distributed in the hope that it will be useful, but WITHOUT ANY WARRANTY; without even the implied warranty of MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the GNU General Public License for more details.  You should have received a copy of the GNU General Public License along with this program ("AptNavGNULicence.txt"); if not, write to the Free Software Foundation, Inc., 59 Temple Place, Suite 330, Boston, MA 02111-1307, USA.
+
+4  36.88219444  030.79019444    172 10870 018     186.280 IATY LTAI 18C ILS-cat-I
+4  36.91908333  030.79525000    174 11030 018     006.280 IAYT LTAI 36C ILS-cat-I
+4  36.91400000  030.81177778    158 10810 018     006.310 IALY LTAI 36R ILS-cat-II
+5  36.87808333  030.80683333    000 10975 018     186.310 ILRA LTAI 18L LOC
+6  36.91283333  030.79313889    172 10870 010  300186.280 IATY LTAI 18C GS
+6  36.88819444  030.78977778    174 11030 010  300006.280 IAYT LTAI 36C GS
+6  36.88338889  030.80891667    158 10810 010  300006.310 IALY LTAI 36R GS
+7  36.99986111  030.80480556    000     0   0     190.000 ---- LTAI 18C OM
+8  36.92458333  030.79625000    000     0   0     190.000 ---- LTAI 18C MM
+8  36.87572222  030.78930556    000     0   0     010.000 ---- LTAI 36C MM
+8  36.87238889  030.80677778    000     0   0     010.000 ---- LTAI 36R MM
+12  36.91283333  030.79313889   174 10870 025       0.000 IATY LTAI 18C DME-ILS
+12  36.87808333  030.80683333   178 10975 025       0.000 ILRA LTAI 18L DME-ILS
+12  36.88819444  030.78977778   176 11030 025       0.000 IAYT LTAI 36C DME-ILS
+12  36.88338889  030.80891667   160 10810 025       0.000 IALY LTAI 36R DME-ILS

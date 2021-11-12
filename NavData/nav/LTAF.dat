@@ -1,0 +1,6 @@
+
+810 Version - data cycle 2013.10, build 20131334, metadata NavXP810.  Copyright © 2013, Robin A. Peel (robin@x-plane.com).   This data is free software; you can redistribute it and/or modify it under the terms of the GNU General Public License as published by the Free Software Foundation; either version 2 of the License, or (at your option) any later version.  This program is distributed in the hope that it will be useful, but WITHOUT ANY WARRANTY; without even the implied warranty of MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the GNU General Public License for more details.  You should have received a copy of the GNU General Public License along with this program ("AptNavGNULicence.txt"); if not, write to the Free Software Foundation, Inc., 59 Temple Place, Suite 330, Boston, MA 02111-1307, USA.
+
+4  36.99066667  035.29480556    052 10870 018     053.470 IADA LTAF 05  ILS-cat-I
+6  36.97566667  035.27172222    052 10870 010  300053.470 IADA LTAF 05  GS
+12  36.97566667  035.27172222   105 10870 025       0.000 IADA LTAF 05  DME-ILS

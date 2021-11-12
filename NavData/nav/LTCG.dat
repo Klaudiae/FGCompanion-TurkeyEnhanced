@@ -1,0 +1,8 @@
+
+810 Version - data cycle 2013.10, build 20131334, metadata NavXP810.  Copyright © 2013, Robin A. Peel (robin@x-plane.com).   This data is free software; you can redistribute it and/or modify it under the terms of the GNU General Public License as published by the Free Software Foundation; either version 2 of the License, or (at your option) any later version.  This program is distributed in the hope that it will be useful, but WITHOUT ANY WARRANTY; without even the implied warranty of MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the GNU General Public License for more details.  You should have received a copy of the GNU General Public License along with this program ("AptNavGNULicence.txt"); if not, write to the Free Software Foundation, Inc., 59 Temple Place, Suite 330, Boston, MA 02111-1307, USA.
+
+4  40.98983333  039.80658333    105 10910 018     112.427 ITBZ LTCG 11  ILS-cat-I
+5  41.00055556  039.77200000    000 10890 018     292.237 ITRB LTCG 29  LOC
+6  40.99922222  039.77908333    105 10910 010  330112.427 ITBZ LTCG 11  GS
+12  40.99925000  039.77908333   151 10910 025       0.000 ITBZ LTCG 11  DME-ILS
+12  41.00055556  039.77200000   142 10890 025       0.000 ITRB LTCG 29  DME-ILS

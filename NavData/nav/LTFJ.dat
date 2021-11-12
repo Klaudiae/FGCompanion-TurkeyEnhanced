@@ -1,0 +1,11 @@
+
+810 Version - data cycle 2013.10, build 20131334, metadata NavXP810.  Copyright © 2013, Robin A. Peel (robin@x-plane.com).   This data is free software; you can redistribute it and/or modify it under the terms of the GNU General Public License as published by the Free Software Foundation; either version 2 of the License, or (at your option) any later version.  This program is distributed in the hope that it will be useful, but WITHOUT ANY WARRANTY; without even the implied warranty of MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the GNU General Public License for more details.  You should have received a copy of the GNU General Public License along with this program ("AptNavGNULicence.txt"); if not, write to the Free Software Foundation, Inc., 59 Temple Place, Suite 330, Boston, MA 02111-1307, USA.
+
+4  40.90475000  029.32605556    294 10990 018     064.100 ISAB LTFJ 06  ILS-cat-I
+4  40.89152778  029.29016667    304 11090 018     244.120 ISBH LTFJ 24  ILS-cat-I
+6  40.89277778  029.29708333    294 10990 010  350064.100 ISAB LTFJ 06  GS
+6  40.90202778  029.32258333    304 11090 010  350244.120 ISBH LTFJ 24  GS
+8  40.88891667  029.28305556    000     0   0     069.000 ---- LTFJ 06  MM
+8  40.90805556  029.33527778    000     0   0     249.000 ---- LTFJ 24  MM
+12  40.89277778  029.29708333   300 10990 025       0.000 ISAB LTFJ 06  DME-ILS
+12  40.90202778  029.32258333   310 11090 025       0.000 ISBH LTFJ 24  DME-ILS

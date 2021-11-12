@@ -1,0 +1,17 @@
+
+810 Version - data cycle 2013.10, build 20131334, metadata NavXP810.  Copyright © 2013, Robin A. Peel (robin@x-plane.com).   This data is free software; you can redistribute it and/or modify it under the terms of the GNU General Public License as published by the Free Software Foundation; either version 2 of the License, or (at your option) any later version.  This program is distributed in the hope that it will be useful, but WITHOUT ANY WARRANTY; without even the implied warranty of MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the GNU General Public License for more details.  You should have received a copy of the GNU General Public License along with this program ("AptNavGNULicence.txt"); if not, write to the Free Software Foundation, Inc., 59 Temple Place, Suite 330, Boston, MA 02111-1307, USA.
+
+4  40.14416667  033.00880556   3100 10890 018     036.180 IAKR LTAC 03L ILS-cat-II
+4  40.14355556  033.01130556   3104 11030 018     036.180 IANK LTAC 03R ILS-cat-III
+4  40.11125000  032.98050000   3135 10810 018     216.190 IESB LTAC 21L ILS-cat-I
+4  40.11411111  032.98016667   3128 10830 018     216.190 IEBG LTAC 21R ILS-cat-I
+6  40.12055556  032.98458333   3100 10890 010  300036.180 IAKR LTAC 03L GS
+6  40.11669444  032.98413889   3104 11030 010  300036.180 IANK LTAC 03R GS
+6  40.13972222  033.00611111   3135 10810 010  300216.190 IESB LTAC 21L GS
+6  40.14069444  033.00375000   3128 10830 010  300216.190 IEBG LTAC 21R GS
+7  40.06100000  032.93266667   0000     0   0     040.000 ---- LTAC 03R OM
+8  40.10688889  032.97644444   0000     0   0     040.000 ---- LTAC 03R MM
+12  40.12055556  032.98458333  3150 10890 025       0.000 IAKR LTAC 03L DME-ILS
+12  40.11669444  032.98413889  3150 11030 025       0.000 IANK LTAC 03R DME-ILS
+12  40.13972222  033.00611111  3169 10810 025       0.000 IESB LTAC 21L DME-ILS
+12  40.14069444  033.00375000  3166 10830 025       0.000 IEBG LTAC 21R DME-ILS

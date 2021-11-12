@@ -1,0 +1,13 @@
+
+810 Version - data cycle 2013.10, build 20131334, metadata NavXP810.  Copyright © 2013, Robin A. Peel (robin@x-plane.com).   This data is free software; you can redistribute it and/or modify it under the terms of the GNU General Public License as published by the Free Software Foundation; either version 2 of the License, or (at your option) any later version.  This program is distributed in the hope that it will be useful, but WITHOUT ANY WARRANTY; without even the implied warranty of MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the GNU General Public License for more details.  You should have received a copy of the GNU General Public License along with this program ("AptNavGNULicence.txt"); if not, write to the Free Software Foundation, Inc., 59 Temple Place, Suite 330, Boston, MA 02111-1307, USA.
+
+4  38.27641667  027.16180556    416 10850 018     166.650 IIMR LTBJ 16L ILS-cat-I
+4  38.30930556  027.15186111    380 11030 018     346.660 IMEN LTBJ 34R ILS-cat-II
+6  38.30333333  027.15238889    416 10850 010  310166.650 IIMR LTBJ 16L GS
+6  38.28050000  027.15913889    380 11030 010  300346.660 IMEN LTBJ 34R GS
+7  38.37194444  027.13302778    000     0   0     170.300 ---- LTBJ 16L OM
+7  38.19761111  027.18561111    000     0   0     350.300 ---- LTBJ 34R OM
+8  38.31455556  027.15000000    000     0   0     170.300 ---- LTBJ 16L MM
+8  38.26950000  027.16383333    000     0   0     350.300 ---- LTBJ 34R MM
+12  38.30333333  027.15238889   426 10850 025       0.000 IIMR LTBJ 16L DME-ILS
+12  38.28050000  027.15913889   390 11030 025       0.000 IMEN LTBJ 34R DME-ILS

@@ -1,0 +1,20 @@
+
+810 Version - data cycle 2013.10, build 20131334, metadata NavXP810.  Copyright © 2013, Robin A. Peel (robin@x-plane.com).   This data is free software; you can redistribute it and/or modify it under the terms of the GNU General Public License as published by the Free Software Foundation; either version 2 of the License, or (at your option) any later version.  This program is distributed in the hope that it will be useful, but WITHOUT ANY WARRANTY; without even the implied warranty of MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the GNU General Public License for more details.  You should have received a copy of the GNU General Public License along with this program ("AptNavGNULicence.txt"); if not, write to the Free Software Foundation, Inc., 59 Temple Place, Suite 330, Boston, MA 02111-1307, USA.
+
+4  40.97694400  028.83416700    093 11030  18     058.570 IIST LTBA 05  ILS-cat-II
+4  40.96805600  028.80944400    157 11110  18     178.480 IISB LTBA 17L ILS-cat-I
+4  40.96500000  028.80833300    090 11190  18     238.590 IATA LTBA 23  ILS-cat-I
+4  40.99805600  028.80583300    102 11150  18     358.480 ISEF LTBA 35L ILS-cat-I
+4  40.99805600  028.80833300    100 11130  18     358.480 IYES LTBA 35R ILS-cat-I
+6  40.96777800  028.81194400    093 11030  10  300058.570 IIST LTBA 05  GS
+6  40.99472200  028.80805600    157 11110  10  300178.480 IISB LTBA 17L GS
+6  40.97583300  028.82944400    090 11190  10  320238.590 IATA LTBA 23  GS
+6  40.97194400  028.80805600    102 11150  10  300358.480 ISEF LTBA 35L GS
+6  40.97305600  028.80833300    100 11130  10  270358.480 IYES LTBA 35R GS
+7  41.01027800  028.90666700    000     0   0     244.000 ---- LTBA 23  OM
+8  40.96305600  028.80361100    000     0   0     064.000 ---- LTBA 05  MM
+8  40.98138900  028.84333300    000     0   0     244.000 ---- LTBA 23  MM
+12  40.96777800  028.81194400   093 11030  18       0.000 IIST LTBA 05  DME-ILS
+12  40.97583300  028.82944400   090 11190  18       0.000 IATA LTBA 23  DME-ILS
+12  40.97194400  028.80805600   102 11150  18       0.000 ISEF LTBA 35L DME-ILS
+12  40.97214800  028.80781100   100 11130  18       0.000 IYES LTBA 35R DME-ILS
