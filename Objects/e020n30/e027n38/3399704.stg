@@ -1,0 +1,12 @@
+OBJECT_SHARED Models/Airport/ndb.ac 27.148333 38.413611 179.39 180
+OBJECT_SHARED Models/Airport/tacan.xml 27.009056 38.494947 0.95 180
+OBJECT_SHARED Models/Commercial/generic_building_135x65x35m_blue_light.xml 27.173308 38.4438461 3.77 0
+OBJECT_SHARED Models/Commercial/generic_building_135x65x35m_blue.xml 27.1679486 38.4558555 -0.72 0
+OBJECT_SHARED Models/Commercial/generic_building_135x65x35m_orange.xml 27.1752121 38.4471866 5.58 0
+OBJECT_SHARED Models/Commercial/generic_building_135x65x35m_white.xml 27.173959 38.4471832 3.94 0
+OBJECT_SHARED Models/Commercial/tower-blue-white.ac 27.1786792 38.4479889 1.6 0
+OBJECT_SHARED Models/Commercial/tower-glass-dark-blue.ac 27.1764861 38.4542386 6.52 0
+OBJECT_SHARED Models/Commercial/tower-glass-dark-blue.ac 27.177043 38.4533146 3.41 0
+OBJECT_SHARED Models/Commercial/tower-grey-black.ac 27.1828787 38.4525408 5.22 0
+OBJECT_SHARED Models/Commercial/tower-h-striped.ac 27.1717731 38.4490319 0.1 0
+OBJECT_SHARED Models/Commercial/tower-square-dark.ac 27.1794035 38.4488953 1.88 0

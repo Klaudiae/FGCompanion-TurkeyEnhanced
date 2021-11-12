@@ -1,0 +1,7 @@
+# osm2city_e020n30_e027n38_3399682
+# do not edit below this line
+# Last Written Mon Feb 24 07:16:08 2020
+#
+BUILDING_LIST e020n30_e027n38_3399682_buildings_shader.txt OSMBuildings 27.62500 38.06250 154.53
+OBJECT_BUILDING_MESH_ROUGH e020n30_e027n38_3399682city10906.ac 27.71430 38.12039 60.52 0
+# END osm2city_e020n30_e027n38_3399682
