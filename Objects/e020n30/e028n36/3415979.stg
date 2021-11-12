@@ -1,0 +1,8 @@
+OBJECT_SHARED Models/Airport/ndb.ac 28.781928 36.689553 0.99 180
+OBJECT_SHARED Models/Airport/tacan.xml 28.788942 36.712839 3.42 180
+OBJECT_SHARED Models/Communications/vordme_1.xml 28.781928 36.689553 0.99 180
+OBJECT_SHARED Models/Maritime/Misc/Buoy-Conical-Green.ac 28.9395033 36.7488708 -0.01 288.99
+OBJECT_SHARED Models/Maritime/Misc/Buoy-Conical-Green.ac 28.9401644 36.748537 -0.01 103.2
+OBJECT_SHARED Models/Maritime/Misc/Buoy-Cylindrical-Red.ac 28.9390687 36.7496693 -0.02 324.43
+OBJECT_SHARED Models/Maritime/Misc/Buoy-Cylindrical-Red.ac 28.9399181 36.7494444 -0.02 236.78
+OBJECT_SHARED Models/Maritime/Misc/Buoy-Cylindrical-Red.ac 28.9405308 36.7490377 -0.01 128.24

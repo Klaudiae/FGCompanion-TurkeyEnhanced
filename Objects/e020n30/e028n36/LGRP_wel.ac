@@ -1,0 +1,58 @@
+AC3Db
+MATERIAL "def" rgb 0.72 0.72 0.72 amb 0.8 0.8 0.8 emis 0.08 0.08 0.08 spec 0.2 0.2 0.2 shi 128 trans 0
+OBJECT world
+kids 1
+OBJECT group
+name "Welcome_LGRP"
+kids 1
+OBJECT group
+name "Default LOD"
+kids 1
+OBJECT poly
+name "POLY_OS=0 HARD= BLEND=no"
+data 94
+poly_os=0.000000
+blend=0.500000
+hard_surf=
+deck=0
+mod_lit=0
+wall=0
+draw_disable=0
+manip_type=0
+texture "LGRP_wel1.png"
+crease 45.000000
+numvert 8
+41.764 12.024 -6.408
+-35.272 10.94 -6.408
+-35.272 12.024 -6.408
+-7.072 12.024 -6.408
+-7.072 10.94 -6.408
+13.568 12.024 -6.408
+41.764 10.94 -6.408
+13.568 10.94 -6.408
+numsurf 4
+SURF 0x10
+mat 0
+refs 3
+5 1 0.63
+0 0 0.63
+6 0 0.5856
+SURF 0x10
+mat 0
+refs 3
+2 1 0.5
+4 0 0.4556
+1 1 0.4556
+SURF 0x10
+mat 0
+refs 3
+2 1 0.5
+3 0 0.5
+4 0 0.4556
+SURF 0x10
+mat 0
+refs 3
+5 1 0.63
+6 0 0.5856
+7 1 0.5856
+kids 0
