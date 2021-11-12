@@ -1,0 +1,17 @@
+OBJECT_SHARED Models/Airport/ndb.ac 28.806389 41.057222 65.95 180
+OBJECT_SHARED Models/Airport/marker.ac 28.806389 41.057222 65.95 180
+OBJECT_SHARED Models/Airport/marker.ac 28.808611 41.006667 15.26 180
+OBJECT_SHARED Models/Airport/marker.ac 28.906667 41.010278 56.69 180
+OBJECT_SHARED Models/Commercial/generic_skyscraper_01.xml 28.8643445 41.0687964 -203.91 90
+OBJECT_SHARED Models/Commercial/generic_skyscraper_01.xml 28.8651326 41.0685983 -198.6 90
+OBJECT_SHARED Models/Commercial/generic_skyscraper_05.ac 28.9920012 41.0690765 -235.02 90
+OBJECT_SHARED Models/Sport/RedbullRedQuadro.ac 28.95748 41.03019 -0.01 96
+OBJECT_SHARED Models/Sport/RedbullBlueGate.ac 28.95067 41.03575 0 205
+OBJECT_SHARED Models/Sport/RedbullBlueGate.ac 28.95148 41.03404 0 211
+OBJECT_SHARED Models/Sport/RedbullBlueGate.ac 28.95425 41.03161 -0.01 4
+OBJECT_SHARED Models/Sport/RedbullRedGate.ac 28.95542 41.03253 -0.01 274
+OBJECT_SHARED Models/Sport/RedbullStartGate.ac 28.96125 41.02962 -0.01 153
+OBJECT_SHARED Models/Sport/RedbullRedPylon.ac 28.95779 41.0327 0 180
+OBJECT_SHARED Models/Sport/RedbullRedPylon.ac 28.95918 41.03193 -0.01 180
+OBJECT_SHARED Models/Sport/RedbullRedPylon.ac 28.96067 41.03137 0 180
+OBJECT_STATIC sultanahmet.xml 28.9772329 41.0049164 31.81 147
